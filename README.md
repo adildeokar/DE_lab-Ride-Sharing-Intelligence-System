@@ -1,8 +1,3 @@
-# DE_lab-Ride-Sharing-Intelligence-System
-Here’s a **GitHub-ready `README.md`** for your Ride-Sharing Intelligence System project, written in clean Markdown with minimal emojis and full code formatting. This version is detailed, structured, and directly copy-pastable to GitHub (or similar platforms).
-
-***
-
 # Ride-Sharing Intelligence System
 
 A Real-Time Analytics & Management Dashboard for Modern Ride-Sharing Ecosystems  
